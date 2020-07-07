@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Registro MasterBurger</string>
+    <string name="comprar">Comprar</string>
+    <string name="masterburger">MasterBurger</string>
+    <string name="registrar">Registrar</string>
+    <string name="consultar">Consultar</string>
+    <string name="logo">TODO</string>
+    <string name="nuevo_registro">Nuevo Registro</string>
+    <string name="consultar_registros">Consultar Registros</string>
+</resources>
